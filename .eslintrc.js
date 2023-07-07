@@ -42,6 +42,7 @@ module.exports = {
       }
     ],
     'import/prefer-default-export': 'off',
+    'import/extensions': [0, {js: "always"}],
     'linebreak-style': 'off',
     'no-catch-shadow': 'error',
     'no-continue': 'off',

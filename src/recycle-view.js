@@ -47,6 +47,10 @@ Component({
       type: Boolean,
       value: false
     },
+    scrollX: {
+      type: Boolean,
+      value: false,
+    },
     scrollY: {
       type: Boolean,
       value: true,
